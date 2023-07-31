@@ -10,4 +10,4 @@ const CriticScore = ({score}:CriticScoreProps) => {
   )
 }
 
-export default CriticScore
+export default CriticScore;
